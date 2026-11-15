@@ -4,7 +4,7 @@ Biology: Bioinformatics student at **UC San Diego** (Class of 2030), interested 
 
 ## What I'm working on
 
-- 🧬 **[ssp-bacgenpipeline](https://github.com/YOUR-USERNAME/ssp-bacgenpipeline)**: rebuilding my Summer Science Program bacterial genomics workflow (originally run in Galaxy) as a reproducible code pipeline. It covers read trimming and filtering, de novo assembly, annotation, and variant calling.
+- 🧬 **[ssp-bacgenpipeline](https://github.com/chl457/ssp-bacgenpipeline)**: rebuilding my Summer Science Program bacterial genomics workflow (originally run in Galaxy) as a reproducible code pipeline. It covers read trimming and filtering, de novo assembly, annotation, and variant calling.
 
 ## Research
 
