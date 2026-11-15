@@ -36,4 +36,4 @@ I love to play the drums and stay active by running, lifting, and playing pickle
 ## Connect
 
 - 🎓 UCSD: chl457@ucsd.edu
-- 🔗 LinkedIn: [*add your link here*](https://www.linkedin.com/in/0-chrislim/)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/0-chrislim/)
