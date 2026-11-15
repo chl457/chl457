@@ -31,9 +31,9 @@ Summer research intern investigating treatments for Lyme disease.
 
 ## Beyond code
 
-I'm the main drummer and media manager at Crosslight Family Ministries. 🥁
+I love to play the drums and stay active by running, lifting, and playing pickleball with friends!
 
 ## Connect
 
 - 🎓 UCSD: chl457@ucsd.edu
-- 🔗 LinkedIn: *add your link here*
+- 🔗 LinkedIn: [*add your link here*](https://www.linkedin.com/in/0-chrislim/)
